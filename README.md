@@ -31,3 +31,6 @@ Built with LangChain, FAISS, Groq LLaMA, and Streamlit.
 
 ## 🔑 Get your free Groq API key
 https://console.groq.com
+
+## RAG-PDF-READER LINK 
+https://rag-pdf-chatbot-dysnhpmrffp4i9ewqxx5c3.streamlit.app

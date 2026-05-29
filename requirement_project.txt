@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-groq
+langchain-text-splitters
+huggingface-hub
+sentence-transformers
+faiss-cpu
+pypdf
+streamlit
+python-dotenv
+numpy
